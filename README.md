@@ -1,4 +1,4 @@
-# Advent of Code - Solutions
+# Advent of Code - Nicolas' Solutions
 
 This repository contains my solutions for the **Advent of Code**
 challenges, an annual programming event that takes place every December.
